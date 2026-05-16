@@ -1,0 +1,45 @@
+p{
+        font-family: Roboto;
+        margin-top: 0;
+        margin-bottom: 0;
+        }
+        .video-title {
+        font-weight: bold;
+        font-size: 18px;
+        width:300px;
+        line-height:24px;
+        margin-bottom: 5px;
+    }
+    .video-stats{
+        color: gray;
+        font-size: 14px;
+        margin-bottom: 10px;
+        
+    }
+    .name{
+        color: gray;
+        font-size: 14px;
+        margin-bottom: 10px;
+        
+    }
+    .para{
+        color: gray;
+        font-size: 14px;
+        width:280px;
+        line-height:22px;
+        margin-bottom: 100px;
+        
+    }
+    .para2{
+        color: white;
+        font-size: 14px;
+        margin-top:50px;
+        background-color: rgb(227, 65, 64);
+        background-size: 60px ;
+        text-align:center;
+        padding-top: 20px;
+        padding-bottom: 20px;  
+    }
+    .shop:hover{
+        text-decoration: underline;
+    }
