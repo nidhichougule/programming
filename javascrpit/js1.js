@@ -237,4 +237,5 @@ let guess=prompt("guess the number");
 while (guess!=y){
     guess=prompt("u guess the wrong number, enter new no. again");
 }
+
 console.log("u guess the right number");
