@@ -1,5 +1,5 @@
 // console.log("hello world!!");
-// console.log("hii yash");
+// console.log("hii baymax");
 // console.log("maza dino cha khali me don't wanna lose lihilya");
 // console.log("BUT STILL I LOSE IT");
 
@@ -165,7 +165,7 @@
 // }
 
 
-// //as pers tudent marks print grade
+// //as per student marks print grade
 // marks=prompt("enter marks");
 // if (marks<=100 && marks>=80){
 //     console.log("grade A");
