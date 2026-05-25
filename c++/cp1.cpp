@@ -564,11 +564,61 @@ void print19(int n){
         cout<<endl;
     }
 }
-int main(){
-    int n;
-    cin>>n;
-    // print5(n);
-    // print4(n);
-    print19(n);
+// int main(){
+//     int n;
+//     cin>>n;
+//     // print5(n);
+//     // print4(n);
+//     print19(n);
+//     return 0;
+// }
+
+//reverse a number// extraction of digits
+int extraction(int num){
+    int cunt=0;
+    while(num>0){
+        int lastdigit=num%10;
+        cout<<lastdigit;
+        cunt+=1;
+        num/=10;
+    }
+    cout<<endl;
+    return cunt;
+}
+
+//  if no is 1234000 its reverse will be 4321
+int reverseno(int num){
+    int reverse=0;
+    while(num>0){
+        int lastdigit=num%10;
+        reverse=reverse*10+lastdigit;
+        num/=10;
+    }
+    return reverse;
+}
+
+// check palindrome
+int checkPalindrome(int num){
+    int rev=num;
+    int reversen=0;
+    while(num>0){
+        int lastdigit=num%10;
+        reversen=reversen*10+lastdigit;
+        num/=10;
+    }
+    if (rev==reversen){
+        cout<<"palindrome";
+    }
+    else{
+        cout<<"not palindrome";
+    }
     return 0;
+
+    }
+int main(){
+    int num;
+    int rvs;
+    cin>>num;
+    checkPalindrome(num);
+    
 }
