@@ -615,10 +615,87 @@ int checkPalindrome(int num){
     return 0;
 
     }
-int main(){
-    int num;
-    int rvs;
-    cin>>num;
-    checkPalindrome(num);
+//armstrong number
+int isarmstrong(int num){
+    int orignalnum=num;
+    int temp=num;
+    int sum=0;
+    int count=0;
+    while(temp>0){
+        temp/=10;
+        count++;
+    }
+    temp=num;
+    while (temp>0){
+        int lastdigit=temp%10;
+        int power=1;
+        for(int i=1;i<=count;i++){
+            power*=lastdigit;
+            }
+        sum+=power;
+        temp/=10;
+    }
+    if (sum==orignalnum){
+        cout<<"armstrong";
+    }
+    else{
+        cout<<"not armstrong";
+    }
+    return 0;
+
+}
+//O(N) solution for Division of a number
+// int alldivision(int num){
+//     for(int i=1;i<=num;i++){
+//         if (num%i==0){
+//             cout<<i<<" ";
+//         }
+//     }
+// }
+
+int alldivision(int num){
+    vector<int> ls;
+    for(int i=1;i*i<=num;i++){
+        if (num%i==0){
+            ls.push_back(i);
+            if(i!=num/i) ls.push_back(num/i);
+        }
+    }   
+    sort(ls.begin(), ls.end());
+    for(auto div : ls) cout << div << " ";
+}
+
+//check prime number
+int isprime(int num){
+    int count=0;
+
+    for(int i=1;i*i<=num;i++){
+        if (num%i==0) {
+            count++;
+            if(i!=num/i) count++;
+        }
+    }
+    if(count==2){
+        cout<<"prime";
+    }
+    else{
+        cout<<"not prime";
+    }
     
 }
+
+//gcd of two numbers by euclidean algorithm
+int gcd(int a,int b){
+    while(a>0 && b>0){
+        if(a>b) a=a%b;
+        else b=b%a;
+    }
+    if(a==0) return b;
+    else return a;
+}
+int main(){
+    int a, b;
+    cin>>a>>b;
+    cout<<gcd(a,b);
+}
+
