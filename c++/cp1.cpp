@@ -693,9 +693,30 @@ int gcd(int a,int b){
     if(a==0) return b;
     else return a;
 }
+
+//recursion
+//base condition
+void printint(int count){
+    if(count==5) {
+        return;
+    }
+    cout <<count;
+    printint(count+1);
+
+}
 int main(){
-    int a, b;
-    cin>>a>>b;
-    cout<<gcd(a,b);
+    // int num;
+    // cin>>num;
+    // cout<<extraction(num)<<endl;
+    // cout<<reverseno(num)<<endl;
+    // checkPalindrome(num);
+    // isarmstrong(num);
+    // alldivision(num);
+    // isprime(num);
+    // int a,b;
+    // cin>>a>>b;
+    // cout<<gcd(a,b);
+    printint(0);
+    return 0;
 }
 
