@@ -19,6 +19,7 @@ int linearSearch(vector<int>& arr, int target) {
 // }
 
 // binary search
+//iterated version
 int binarySearch(vector<int>& arr, int target) {
     int low = 0, high = arr.size()-1;
 
@@ -39,8 +40,24 @@ int binarySearch(vector<int>& arr, int target) {
 int main(){
     vector<int> arr = {1,2,3,4,5};
     int target = 4;
-    binarySearch( arr, target);
+    cout<<binarySearch( arr, target);
+
     return 0;   
+}
+
+//recursive version
+int binarySearchRecursive(vector<int>& arr, int target, int low, int high) {
+    if(low > high)
+        return -1;
+
+    int mid = low + (high-low)/2;
+
+    if(arr[mid] == target)
+        return mid;
+    else if(arr[mid] < target)
+        return binarySearchRecursive(arr, target, mid+1, high);
+    else
+        return binarySearchRecursive(arr, target, low, mid-1);
 }
 
 
