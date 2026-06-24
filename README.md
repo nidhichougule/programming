@@ -14,6 +14,7 @@ DSA
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nidhichougule/programming/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -40,4 +41,8 @@ DSA
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nidhichougule/programming/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
