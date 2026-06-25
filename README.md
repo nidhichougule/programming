@@ -45,4 +45,12 @@ DSA
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nidhichougule/programming/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nidhichougule/programming/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
