@@ -62,6 +62,7 @@ DSA
 | ------- |
 | [0050-powx-n](https://github.com/nidhichougule/programming/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +71,5 @@ DSA
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
