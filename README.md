@@ -45,6 +45,7 @@ DSA
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
+| [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ DSA
 | [0050-powx-n](https://github.com/nidhichougule/programming/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +74,5 @@ DSA
 | ------- |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
