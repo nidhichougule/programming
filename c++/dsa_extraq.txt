@@ -1,0 +1,113 @@
+/*
+
+//Sort a Linked List of 0's 1's and 2's
+Definition of singly linked list:
+class ListNode{
+  public:
+    int data;
+    ListNode *next;
+    ListNode() : data(0), next(nullptr) {}
+    ListNode(int x) : data(x), next(nullptr) {}
+    ListNode(int x, ListNode *next) : data(x), next(next) {}
+};
+*/
+
+class Solution {
+    public:
+        ListNode* sortList(ListNode* &head) {
+            //your code goes here
+            ListNode* temp=head;
+            ListNode* dnode0= new ListNode(-1);
+            ListNode* dnode1= new ListNode(-1);
+            ListNode* dnode2= new ListNode(-1);
+            ListNode* zero=dnode0;
+            ListNode* first=dnode1;
+            ListNode* second=dnode2;
+            while(temp!= NULL){
+                if(temp->data==0){
+                    zero->next=temp;
+                    zero=zero->next;
+                }
+                else if(temp->data ==1){
+                    first->next=temp;
+                    first=first->next;
+                }
+                else{
+                    second->next=temp;
+                    second=second->next;
+                }
+                temp=temp->next;
+            }
+            zero->next=(dnode1->next)? dnode1->next:dnode2->next;
+            first->next=dnode2->next;
+            second->next=NULL;
+            ListNode* newhead=dnode0->next;
+            delete dnode0;
+            delete dnode1;
+            delete dnode2;
+            return newhead;
+        }
+};
+
+
+
+
+
+//Flattening of LL
+/*
+Definition of special linked list:
+struct ListNode
+{
+    int val;
+    ListNode *next;
+    ListNode *child;
+    ListNode()
+    {
+        val = 0;
+        next = NULL;
+        child = NULL;
+    }
+    ListNode(int data1)
+    {
+        val = data1;
+        next = NULL;
+        child = NULL;
+    }
+    ListNode(int data1, ListNode *next1, ListNode* next2)
+    {
+        val = data1;
+        next = next1;
+        child = next1;
+    }
+};
+*/
+
+class Solution {
+public:
+    ListNode* mergell(ListNode* list1,ListNode* list2){
+        ListNode* dummy=new ListNode(-1);
+        ListNode* res=dummy;
+        while(list1 !=NULL && list2 !=NULL){
+            if(list1->val < list2->val){
+                res->child=list1;
+                res=list1;
+                list1=list1->child;
+            }
+            else{
+                res->child=list2;
+                res=list2;
+                list2=list2->child;
+            }
+            res->next=NULL;
+        }
+        if(list1) res->child=list1;
+        else res->child=list2;
+        return dummy->child;
+    }
+    ListNode* flattenLinkedList(ListNode* &head) {
+        if(head ==NULL || head ->next==NULL) return head;
+        ListNode* mergehead=flattenLinkedList(head->next);
+        return mergell(head,mergehead);
+    }
+    
+};
