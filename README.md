@@ -5,12 +5,14 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
