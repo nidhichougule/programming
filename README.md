@@ -13,6 +13,7 @@ DSA
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@ DSA
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nidhichougule/programming/tree/master/0008-string-to-integer-atoi) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
@@ -110,4 +112,8 @@ DSA
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nidhichougule/programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nidhichougule/programming/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
