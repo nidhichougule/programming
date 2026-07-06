@@ -5,6 +5,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nidhichougule/programming/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
@@ -59,6 +60,7 @@ DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nidhichougule/programming/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 ## Stack
