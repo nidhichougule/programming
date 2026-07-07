@@ -7,6 +7,7 @@ DSA
 | ------- |
 | [0027-remove-element](https://github.com/nidhichougule/programming/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
@@ -61,11 +62,13 @@ DSA
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nidhichougule/programming/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/nidhichougule/programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nidhichougule/programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nidhichougule/programming/tree/master/0232-implement-queue-using-stacks) |
@@ -147,4 +150,12 @@ DSA
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
