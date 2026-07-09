@@ -15,6 +15,7 @@ DSA
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ DSA
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +111,7 @@ DSA
 | [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +149,7 @@ DSA
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -167,4 +171,8 @@ DSA
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nidhichougule/programming/tree/master/0303-range-sum-query-immutable) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nidhichougule/programming/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
