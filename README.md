@@ -86,6 +86,7 @@ DSA
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nidhichougule/programming/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -161,6 +162,7 @@ DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -175,4 +177,8 @@ DSA
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
