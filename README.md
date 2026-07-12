@@ -67,6 +67,7 @@ DSA
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nidhichougule/programming/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichougule/programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
@@ -89,6 +90,7 @@ DSA
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nidhichougule/programming/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichougule/programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -185,4 +187,8 @@ DSA
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nidhichougule/programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nidhichougule/programming/tree/master/0040-combination-sum-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichougule/programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
