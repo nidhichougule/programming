@@ -96,6 +96,7 @@ DSA
 | [0459-repeated-substring-pattern](https://github.com/nidhichougule/programming/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nidhichougule/programming/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/nidhichougule/programming/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -199,5 +200,6 @@ DSA
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichougule/programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nidhichougule/programming/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nidhichougule/programming/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/nidhichougule/programming/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 <!---LeetCode Topics End-->
