@@ -17,6 +17,7 @@ DSA
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 | [1260-shift-2d-grid](https://github.com/nidhichougule/programming/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/nidhichougule/programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -102,6 +103,7 @@ DSA
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/nidhichougule/programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nidhichougule/programming/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nidhichougule/programming/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
@@ -206,6 +208,7 @@ DSA
 | [0686-repeated-string-match](https://github.com/nidhichougule/programming/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/nidhichougule/programming/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/nidhichougule/programming/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Enumeration
 |  |
 | ------- |
