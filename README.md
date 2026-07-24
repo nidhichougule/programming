@@ -21,6 +21,7 @@ DSA
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichougule/programming/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichougule/programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ DSA
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 | [1922-count-good-numbers](https://github.com/nidhichougule/programming/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichougule/programming/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichougule/programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nidhichougule/programming/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
@@ -215,8 +217,10 @@ DSA
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nidhichougule/programming/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichougule/programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichougule/programming/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichougule/programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
