@@ -118,6 +118,7 @@ DSA
 | [1922-count-good-numbers](https://github.com/nidhichougule/programming/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichougule/programming/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichougule/programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/nidhichougule/programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nidhichougule/programming/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
@@ -138,6 +139,7 @@ DSA
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/nidhichougule/programming/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
 | ------- |
