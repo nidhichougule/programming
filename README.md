@@ -12,6 +12,7 @@ DSA
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0303-range-sum-query-immutable](https://github.com/nidhichougule/programming/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
@@ -114,6 +115,7 @@ DSA
 | [0050-powx-n](https://github.com/nidhichougule/programming/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 | [1922-count-good-numbers](https://github.com/nidhichougule/programming/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichougule/programming/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -137,6 +139,7 @@ DSA
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/nidhichougule/programming/tree/master/3536-maximum-product-of-two-digits) |
