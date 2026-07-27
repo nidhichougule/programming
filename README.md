@@ -17,6 +17,7 @@ DSA
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 | [1260-shift-2d-grid](https://github.com/nidhichougule/programming/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nidhichougule/programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nidhichougule/programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -45,6 +46,7 @@ DSA
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nidhichougule/programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
@@ -142,6 +144,7 @@ DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nidhichougule/programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/nidhichougule/programming/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
