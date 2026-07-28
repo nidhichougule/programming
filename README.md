@@ -11,6 +11,7 @@ DSA
 | [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0303-range-sum-query-immutable](https://github.com/nidhichougule/programming/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
@@ -29,6 +30,7 @@ DSA
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
+| [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -79,6 +81,7 @@ DSA
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichougule/programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
+| [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 ## Stack
@@ -133,6 +136,7 @@ DSA
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -140,6 +144,7 @@ DSA
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
