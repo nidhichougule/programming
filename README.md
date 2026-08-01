@@ -13,6 +13,7 @@ DSA
 | [0268-missing-number](https://github.com/nidhichougule/programming/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/nidhichougule/programming/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
@@ -128,6 +129,7 @@ DSA
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/nidhichougule/programming/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
 | [1922-count-good-numbers](https://github.com/nidhichougule/programming/tree/master/1922-count-good-numbers) |
@@ -141,6 +143,7 @@ DSA
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nidhichougule/programming/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/nidhichougule/programming/tree/master/1922-count-good-numbers) |
 ## Binary Search
 |  |
@@ -213,6 +216,7 @@ DSA
 | ------- |
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -261,4 +265,8 @@ DSA
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nidhichougule/programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nidhichougule/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
