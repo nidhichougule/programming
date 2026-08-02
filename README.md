@@ -17,6 +17,7 @@ DSA
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
+| [0877-stone-game](https://github.com/nidhichougule/programming/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 | [1260-shift-2d-grid](https://github.com/nidhichougule/programming/tree/master/1260-shift-2d-grid) |
@@ -132,6 +133,7 @@ DSA
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/nidhichougule/programming/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/nidhichougule/programming/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nidhichougule/programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichougule/programming/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -217,6 +219,7 @@ DSA
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/nidhichougule/programming/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -269,4 +272,5 @@ DSA
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/nidhichougule/programming/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
