@@ -1,3 +1,5 @@
+The repository includes solutions covering various DSA concepts. It also contains programming practice in C, C++, Java, Python, and JavaScript, along with basic HTML and CSS practice.
+
 DSA
 
 <!---LeetCode Topics Start-->
