@@ -36,6 +36,7 @@ DSA
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nidhichougule/programming/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/nidhichougule/programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
@@ -113,6 +114,7 @@ DSA
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nidhichougule/programming/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/nidhichougule/programming/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichougule/programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nidhichougule/programming/tree/master/0459-repeated-substring-pattern) |
@@ -131,6 +133,7 @@ DSA
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nidhichougule/programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nidhichougule/programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nidhichougule/programming/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
