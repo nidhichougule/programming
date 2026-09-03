@@ -118,6 +118,7 @@ DSA
 | [0013-roman-to-integer](https://github.com/nidhichougule/programming/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichougule/programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/nidhichougule/programming/tree/master/0058-length-of-last-word) |
 | [0459-repeated-substring-pattern](https://github.com/nidhichougule/programming/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nidhichougule/programming/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
