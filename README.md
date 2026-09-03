@@ -33,6 +33,7 @@ DSA
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichougule/programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nidhichougule/programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nidhichougule/programming/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nidhichougule/programming/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ DSA
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nidhichougule/programming/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/nidhichougule/programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nidhichougule/programming/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nidhichougule/programming/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
