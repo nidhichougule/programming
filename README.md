@@ -67,6 +67,7 @@ DSA
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nidhichougule/programming/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/nidhichougule/programming/tree/master/1260-shift-2d-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -119,6 +120,7 @@ DSA
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichougule/programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nidhichougule/programming/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nidhichougule/programming/tree/master/0067-add-binary) |
 | [0459-repeated-substring-pattern](https://github.com/nidhichougule/programming/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nidhichougule/programming/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
@@ -138,6 +140,7 @@ DSA
 | [0013-roman-to-integer](https://github.com/nidhichougule/programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nidhichougule/programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nidhichougule/programming/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nidhichougule/programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/nidhichougule/programming/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
@@ -268,6 +271,7 @@ DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nidhichougule/programming/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/nidhichougule/programming/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichougule/programming/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichougule/programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
