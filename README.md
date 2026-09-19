@@ -13,6 +13,7 @@ DSA
 | [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/nidhichougule/programming/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/nidhichougule/programming/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/nidhichougule/programming/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/nidhichougule/programming/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
@@ -233,6 +234,7 @@ DSA
 | ------- |
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/nidhichougule/programming/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nidhichougule/programming/tree/master/0877-stone-game) |
 ## Monotonic Stack
