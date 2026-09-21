@@ -71,6 +71,7 @@ DSA
 | ------- |
 | [0067-add-binary](https://github.com/nidhichougule/programming/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/nidhichougule/programming/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/nidhichougule/programming/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/nidhichougule/programming/tree/master/1260-shift-2d-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -100,6 +101,7 @@ DSA
 | [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
 | [0349-intersection-of-two-arrays](https://github.com/nidhichougule/programming/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/nidhichougule/programming/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/nidhichougule/programming/tree/master/0844-backspace-string-compare) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 ## Stack
 |  |
@@ -109,6 +111,7 @@ DSA
 | [0225-implement-stack-using-queues](https://github.com/nidhichougule/programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nidhichougule/programming/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/nidhichougule/programming/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/nidhichougule/programming/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -129,6 +132,7 @@ DSA
 | [0686-repeated-string-match](https://github.com/nidhichougule/programming/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/nidhichougule/programming/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/nidhichougule/programming/tree/master/0844-backspace-string-compare) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
