@@ -20,6 +20,7 @@ DSA
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/nidhichougule/programming/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichougule/programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/nidhichougule/programming/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/nidhichougule/programming/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/nidhichougule/programming/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nidhichougule/programming/tree/master/0912-sort-an-array) |
@@ -69,6 +70,7 @@ DSA
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nidhichougule/programming/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/nidhichougule/programming/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/nidhichougule/programming/tree/master/1260-shift-2d-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -106,6 +108,7 @@ DSA
 | [0155-min-stack](https://github.com/nidhichougule/programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nidhichougule/programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nidhichougule/programming/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/nidhichougule/programming/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
