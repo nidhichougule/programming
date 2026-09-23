@@ -54,6 +54,7 @@ DSA
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nidhichougule/programming/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nidhichougule/programming/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/nidhichougule/programming/tree/master/0086-partition-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nidhichougule/programming/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
@@ -167,6 +168,7 @@ DSA
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nidhichougule/programming/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/nidhichougule/programming/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/nidhichougule/programming/tree/master/1922-count-good-numbers) |
