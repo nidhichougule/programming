@@ -113,6 +113,7 @@ DSA
 | [0232-implement-queue-using-stacks](https://github.com/nidhichougule/programming/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/nidhichougule/programming/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/nidhichougule/programming/tree/master/0844-backspace-string-compare) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nidhichougule/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Design
 |  |
 | ------- |
@@ -135,6 +136,7 @@ DSA
 | [0796-rotate-string](https://github.com/nidhichougule/programming/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/nidhichougule/programming/tree/master/0844-backspace-string-compare) |
 | [1023-camelcase-matching](https://github.com/nidhichougule/programming/tree/master/1023-camelcase-matching) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nidhichougule/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nidhichougule/programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nidhichougule/programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nidhichougule/programming/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -300,4 +302,8 @@ DSA
 | ------- |
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nidhichougule/programming/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nidhichougule/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
