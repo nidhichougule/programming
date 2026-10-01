@@ -153,6 +153,7 @@ DSA
 | [0066-plus-one](https://github.com/nidhichougule/programming/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nidhichougule/programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nidhichougule/programming/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/nidhichougule/programming/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nidhichougule/programming/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nidhichougule/programming/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
@@ -245,6 +246,7 @@ DSA
 | ------- |
 | [0022-generate-parentheses](https://github.com/nidhichougule/programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nidhichougule/programming/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/nidhichougule/programming/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/nidhichougule/programming/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/nidhichougule/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nidhichougule/programming/tree/master/0877-stone-game) |
@@ -306,4 +308,8 @@ DSA
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nidhichougule/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nidhichougule/programming/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
