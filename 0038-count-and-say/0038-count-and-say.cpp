@@ -1,0 +1,21 @@
+class Solution {
+public:
+    string countAndSay(int n) {
+        string ans= "1";
+        for (int step= 1; step < n; step++) {
+            string next= "";
+            for (int i= 0; i < ans.size();) {
+                int count= 1;
+                while (i + 1 < ans.size() && ans[i] == ans[i + 1]) {
+                    count++;
+                    i++;
+                }
+                next+= to_string(count);
+                next+= ans[i];
+                i++;
+            }
+            ans= next;
+        }
+        return ans;
+    }
+};
