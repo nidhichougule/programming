@@ -8,6 +8,7 @@ DSA
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nidhichougule/programming/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/nidhichougule/programming/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nidhichougule/programming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nidhichougule/programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nidhichougule/programming/tree/master/0040-combination-sum-ii) |
@@ -42,6 +43,7 @@ DSA
 | ------- |
 | [0012-integer-to-roman](https://github.com/nidhichougule/programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nidhichougule/programming/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/nidhichougule/programming/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nidhichougule/programming/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/nidhichougule/programming/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/nidhichougule/programming/tree/master/0268-missing-number) |
@@ -239,6 +241,7 @@ DSA
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nidhichougule/programming/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nidhichougule/programming/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/nidhichougule/programming/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nidhichougule/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
